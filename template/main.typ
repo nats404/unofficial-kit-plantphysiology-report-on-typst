@@ -22,11 +22,11 @@ Das Template wurde erstellt für die Anforderungen aus dem Wintersemester 2025/2
 
 Hier kannst du einfach mit dem Schreiben beginnen.
 
-Willst du eine Quelle angeben, geht das ganz einfach so @reference.
+Willst du eine Quelle angeben, geht das ganz einfach so @referencename.
 Um auf Abbildungen oder Tabellen zu verweisen, schreibst du das so @abb:1, @tb:1. Denk nur daran, deiner Abbildung oder Tabelle auch den selben Namen am Ende zu geben, wie hier:
 
 #figure(
-  image("Abbildungen/pic.jpg"),
+  image("Abbildungen/pic.png"),
   caption: flex-caption[Beispieltabelle][Hier sieht man ja alles mögliche drin]
 )<abb:1>
 
@@ -40,13 +40,23 @@ Um auf Abbildungen oder Tabellen zu verweisen, schreibst du das so @abb:1, @tb:1
   caption: flex-caption[Beispieltabelle][Hier sieht man ja auch so viel]
 )<tb:1>
 
-Eine sehr umfangreiche Anleitung gibt es von Typst selbst (https://typst.app/docs/). Sie ist allerdings nur auf Englisch. 
+\
 
-Um Formeln zu schreiben, brauchst du etwas Verständnis von LaTeX. Du kannst aber auch immer ganz einfach im Internet nach deinem Ausdruck + LaTeX suchen. Eine Formel wird immer zwischen zwei $-Zeichen geschrieben.
+Eine sehr umfangreiche Anleitung gibt es von Typst selbst (https://typst.app/docs/). Sie ist allerdings nur auf _Englisch_. 
+
+\
+
+Um *Formeln* zu schreiben, brauchst du etwas Verständnis von LaTeX. Du kannst aber auch immer ganz einfach im Internet nach deinem Ausdruck + LaTeX suchen. 
+
+Eine Formel wird immer zwischen zwei Dollar-Zeichen geschrieben.
+
+\
 
 Beispiel: $C_1*V_1=C_2*V_2$
 
-Vergiss am Ende nicht, die Eidesstattlische Erklärung zu unterschreiben und das Dokument als pdf mit dem richtigen Dateinamen (BA-04_Versuchsteil_u-Kürzel_Nachame, Vorname) zu speichern.
+\
+
+*Vergiss am Ende nicht, die Eidesstattlische Erklärung zu unterschreiben und das Dokument als pdf mit dem richtigen Dateinamen (BA-04_Versuchsteil_u-Kürzel_Nachame, Vorname) zu speichern.*
 
 = Zielsetzung
 
@@ -61,5 +71,3 @@ Vergiss am Ende nicht, die Eidesstattlische Erklärung zu unterschreiben und das
 
 
 = Zusammenfassung
-
-
