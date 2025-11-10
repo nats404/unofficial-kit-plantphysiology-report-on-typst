@@ -27,7 +27,7 @@ Um auf Abbildungen oder Tabellen zu verweisen, schreibst du das so @abb:1, @tb:1
 
 #figure(
   image("Abbildungen/pic.jpg"),
-  caption: flex-caption[Beispieltabelle]
+  caption: flex-caption[Beispieltabelle][Hier sieht man ja alles mögliche drin]
 )<abb:1>
 
 #figure(
@@ -37,7 +37,7 @@ Um auf Abbildungen oder Tabellen zu verweisen, schreibst du das so @abb:1, @tb:1
     [*Heading 1.2*],[2],[3],[4],[5],
     [*Heading 1.3*],[2.1],[3.1],[4.1],[5.1],
   ),
-  caption: flex-caption[Beispieltabelle],
+  caption: flex-caption[Beispieltabelle][Hier sieht man ja auch so viel]
 )<tb:1>
 
 Eine sehr umfangreiche Anleitung gibt es von Typst selbst (https://typst.app/docs/). Sie ist allerdings nur auf Englisch. 
