@@ -40,7 +40,7 @@ You can just fill them out once you're starting from the template.
   group: "Dienstagsgruppe 2",
   bibliography: bibliography("refs.bib"),
   acronyms: (
-    "TMS": "Traceability Management System",
+    "Abkürzung": "Abkürzung ausgeschrieben",
   ),
 )
 // HIER DER INHALT DES PROTOKOLLS
