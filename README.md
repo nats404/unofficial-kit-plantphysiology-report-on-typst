@@ -27,3 +27,28 @@ You can just fill them out once you're starting from the template.
 
 # Example
 
+#import "template.typ": *
+
+#show: pflanzenphys-protokoll.with(
+  title: [Versuch X: \ Name des Versuchs],
+  author: "Vorname Nachname",
+//Matrikelnummer:
+  ID: "XXXXXXX",
+  email: "uxxxx@student.kit.edu",
+  year: "WS25/26",
+  group: "Dienstagsgruppe 2",
+  bibliography: bibliography("refs.bib"),
+  acronyms: (
+    "TMS": "Traceability Management System",
+  ),
+)
+// HIER DER INHALT DES PROTOKOLLS
+= Einleitung
+Hier Text...
+
+= Zielsetzung
+...
+= Material und Methoden
+= Ergebnisse
+= Diskussion
+= Zusammenfassung
