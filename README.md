@@ -28,7 +28,7 @@ You can just fill them out once you're starting from the template.
 # Example
 
 ```
-#import "template.typ": *
+#import "@preview/unofficial-kit-plant-report:0.1.0": *
 
 #show: pflanzenphys-protokoll.with(
   title: [Versuch X: \ Name des Versuchs],
