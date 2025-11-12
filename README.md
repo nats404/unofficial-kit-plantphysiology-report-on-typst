@@ -1,6 +1,6 @@
 # Unofficial KIT typst template for the B.Sc. Biology module "Pflanzenphysiologisches Praktikum"
 
-**Typst: typst.app**
+**Typst: https://typst.app**
 
 If you have any questions or issues, feel free to contact me! 
 
