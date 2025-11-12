@@ -1,1 +1,16 @@
+[package]
+name = "unofficial-kit-plantphysiology-report"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["nats404"]
+license = "MIT"
+description = "Fullfills the requirements of the report for the module "Pflanzenphysiologisches Praktikum" in the KIT degree course B.Sc. Biology."
+repository = "https://github.com/nats404/unofficial-kit-plantphysiology-report"
+keywords = ["template", "KIT", "report", "biology", "academic"]
+categories = ["report"]
+disciplines = ["biology"]
 
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
