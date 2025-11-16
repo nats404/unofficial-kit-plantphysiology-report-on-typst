@@ -49,7 +49,7 @@ Eine sehr umfangreiche Anleitung gibt es von Typst selbst (https://typst.app/doc
 
 \
 
-Um *Formeln* zu schreiben, brauchst du etwas Verständnis von LaTeX. Du kannst aber auch immer ganz einfach im Internet nach deinem Ausdruck + LaTeX suchen. 
+Um *Formeln* zu schreiben, schaue auf https://typst.app/docs/reference/math/ nach. Es wird keine offizielle LaTeX-Schreibweise benutzt.
 
 Eine Formel wird immer zwischen zwei Dollar-Zeichen geschrieben.
 
