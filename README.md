@@ -68,3 +68,6 @@ Hier Text...
 = Diskussion
 = Zusammenfassung
 ```
+
+# Fixed
+- kursive, fettgedruckte und kursiv-fettgedruckte Schrift funktioniert
